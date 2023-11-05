@@ -12,3 +12,4 @@ SimpleWeatherApp is a lightweight weather application built using HTML, CSS, and
 
    ```bash
    git clone https://github.com/yourusername/SimpleWeatherApp.git
+![](image.png)
